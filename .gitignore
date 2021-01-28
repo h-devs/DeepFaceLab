@@ -7,4 +7,5 @@
 !Dockerfile*
 !*.sh
 !*.whl
-!env
+!env/*
+!python_packages/*
