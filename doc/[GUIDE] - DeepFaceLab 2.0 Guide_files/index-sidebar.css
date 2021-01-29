@@ -1,0 +1,21 @@
+/* Index sidebar */
+.nosidebar_index {
+	display: none;
+	padding: 0px;
+}
+
+#forum_index {
+	padding: 0px;
+}
+
+.sidebar_index {
+    float: right;
+    padding-right: 0px;
+    padding-left: 15px;
+}
+
+@media screen and (max-width: 767px) {
+	.sidebar_index {
+		width:100%;
+    }
+}
